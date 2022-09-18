@@ -1,6 +1,7 @@
 <h1 align="center">
 <img src="src/imagens/loc.png" >
-    <br>:round_pushpin: CONSUMO DE API VIA CEP :round_pushpin:
+
+<br>:round_pushpin: CONSUMO DE API VIA CEP :round_pushpin:
 </h1>
 <br>
 <h3>
@@ -24,7 +25,7 @@ https://viacep.com.br
 </h3>
 
 <p>
-    O intuito do projeto é disponibilizar para o usuário um WebSite que serve como ferramenta para consultar CEP's.
+    Este projeto disponibiliza um WebSite que serve como ferramenta para consultar CEP's.
 </p>
 
 <h3>
@@ -38,7 +39,7 @@ https://viacep.com.br
 </p>
 
 <h3>
-    Oque é uma API?
+    :pushpin:Oque é uma API?
 </h3>
 
 <p>
@@ -46,7 +47,7 @@ https://viacep.com.br
 </p>
 
 <h3>
-    Diferentes Tipos de API
+    :pushpin:Diferentes Tipos de API
 </h3>
 
 <li>
@@ -66,7 +67,7 @@ https://viacep.com.br
 </li>
 
 <h3>
-    Como Usar Fazemos Nosso WebSite Consumir uma API Automaticamente?
+    :pushpin:Como Fazemos Nosso WebSite Consumir uma API?
 </h3>
 
 <p>
