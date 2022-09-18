@@ -9,7 +9,7 @@
 </h3>
 
 ```
-https://lucas4fs.github.io/projeto-naruto-slider/
+https://lucas4fs.github.io/consumo-de-api-via-cep-com-js/
 ``` 
 
 <h3>
