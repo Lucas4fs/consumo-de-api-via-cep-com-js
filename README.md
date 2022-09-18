@@ -71,7 +71,7 @@ https://viacep.com.br
 </h3>
 
 <p>
-    Usando JavaScript é possível construir um código que consome a API automaticamente ao realizar a consulta do CEP
+    Usando JavaScript é possível construir um código que consome a API ao realizar a consulta do CEP
 </p>
 
 <h3>
